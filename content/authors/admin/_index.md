@@ -10,11 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Princeton University
+  url: ""
+- name: University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
