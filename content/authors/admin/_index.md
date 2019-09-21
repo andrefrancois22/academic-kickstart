@@ -29,14 +29,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Psychology (Cognition Program)
+    institution: University of California, Berkeley
+    year: 2018
+  - course: MS in Computer Science, Electrical Engineering and Computer Sciences (EECS)
+    institution: University of California, Berkeley
+    year: 2018
+  - course: BA in Psychology, Art History & Studio Art
+    institution: Georgetown University
     year: 2008
 
 # Social/Academic Networking
