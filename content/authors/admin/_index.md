@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-My research interests center around uncovering human perceptual biases using crowdsourcing and large-scale curated networks of participants arranged in transmission chains. I use techniques from interpretable A.I. and computer vision, as well as Bayesian computational modeling techniques to understand these biases. In my current work, I use these techniques to understand visual memory encoding of visual scenes and objects. 
+I completed my PhD in Thomas Griffiths' Computational Cognitive Science Lab at UC Berkeley in 2018. I am currently at Princeton University working as a postdoctoral researcher in the same group. My research interests center around uncovering human perceptual biases using crowdsourcing and large-scale curated networks of participants arranged in transmission chains. I use techniques from interpretable A.I. and computer vision, as well as Bayesian computational modeling techniques to understand these biases. My current work focuses on characterizing human visual memory encoding for images and objects. 
