@@ -23,9 +23,12 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Vision science
+- Visual encoding and memory
+- Computational models of cognition
+- Interpretable A.I. and computer vision 
+- Experimentation as algorithm design
+- Visual psychophysics
 
 education:
   courses:
