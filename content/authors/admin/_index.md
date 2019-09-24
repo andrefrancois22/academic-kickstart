@@ -75,5 +75,4 @@ user_groups:
 - Visitors
 ---
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research interests center around uncovering human perceptual biases using crowdsourcing and large-scale curated networks of participants arranged in transmission chains. I use techniques from interpretable A.I. and computer vision, as well as Bayesian computational modeling techniques to understand these biases. In my current work, I use these techniques to understand visual memory encoding of visual scenes and objects. 
