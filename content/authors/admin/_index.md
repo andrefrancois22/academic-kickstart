@@ -27,7 +27,6 @@ interests:
 - Visual encoding and memory
 - Computational models of cognition
 - Interpretable A.I. and computer vision 
-- Experimentation as algorithm design
 - Visual psychophysics
 
 education:
