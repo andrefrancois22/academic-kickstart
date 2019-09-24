@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Psychology (Cognition Program)
+  - course: PhD in Psychology (Cognition)
     institution: University of California, Berkeley
     year: 2018
-  - course: MS in Computer Science, Electrical Engineering and Computer Sciences (EECS)
+  - course: MS in Computer Science (EECS)
     institution: University of California, Berkeley
     year: 2018
   - course: BA in Psychology, Art History & Studio Art
