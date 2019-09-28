@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "files/Uncovering-visual-priors-in-spatial-memory-using-serial-reproduction.pdf"
+url_pdf = "files/Effects-of-Implied-Motion-and-Facing-Direction-on-Positional-Preferences-in-Single-Object-Pictures.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
