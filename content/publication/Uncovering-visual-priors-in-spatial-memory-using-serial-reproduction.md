@@ -1,11 +1,11 @@
 +++
-title = "A publication title, such as title of a paper"
+title = "Uncovering visual priors in spatial memory using serial reproduction"
 
 # Date first published.
-date = "2013-07-01"
+date = "2017"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["First author's name", "Second author's name"]
+authors = ["Thomas A. Langlois", "Nori Jacoby", "Jordan Suchow", "Thomas L. Griffiths"]
 
 # Publication type.
 # Legend:
@@ -19,8 +19,8 @@ authors = ["First author's name", "Second author's name"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *ICA*"
+publication = "In *Proceedings of the 39th Annual Conference of the Cognitive Science Society.*"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
