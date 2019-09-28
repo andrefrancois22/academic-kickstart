@@ -3,7 +3,6 @@ title = "Uncovering visual priors in spatial memory using serial reproduction"
 
 # Date first published.
 date: "2017-09-01T00:00:00Z"
-doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
