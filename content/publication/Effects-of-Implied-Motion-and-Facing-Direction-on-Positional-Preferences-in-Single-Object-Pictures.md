@@ -1,5 +1,5 @@
 +++
-title = "Uncovering visual priors in spatial memory using serial reproduction"
+title = "Effects of Implied Motion and Facing Direction on Positional Preferences in Single Object Pictures"
 
 # Date first published.
 date = "January 2017"
