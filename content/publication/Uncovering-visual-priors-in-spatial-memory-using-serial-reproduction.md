@@ -62,7 +62,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "thumbnail-Uncovering-visual-priors-in-spatial-memory-using-serial-reproduction.png"
-caption = "Uncovering visual priors in spatial memory using serial reproduction"
+#image = "thumbnail-Uncovering-visual-priors-in-spatial-memory-using-serial-reproduction.png"
+caption = ""
 
 +++
