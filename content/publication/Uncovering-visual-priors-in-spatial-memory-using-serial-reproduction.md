@@ -23,23 +23,7 @@ publication = "In *Proceedings of the 39th Annual Conference of the Cognitive Sc
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Visual memory can be understood as an inferential process that
-combines noisy information about the world with knowledge
-drawn from experience. Biases can arise during encoding of
-information from the outside world into internal representa-
-tions, or during retrieval. In this work, we use the method
-of serial reproduction, in which information is passed along a
-chain of participants who try to recreate what they observed.
-We apply this method to the study of visual perception in the
-context of spatial memory biases for the remembered position
-of dots inside different geometric shapes. We present the re-
-sults of non-parametric kernel density estimation of the end re-
-sult of serial reproduction to model visual biases. We confirm
-previous findings, and show that memory biases revealed with
-our method are often more intricate and complex than what
-had previously been reported, suggesting that serial reproduc-
-tion can be effective for studying perceptual priors."
-
+abstract = "The abstract. Visual memory can be understood as an inferential process that combines noisy information about the world with knowledge drawn from experience. Biases can arise during encoding of information from the outside world into internal representations, or during retrieval. In this work, we use the method of serial reproduction, in which information is passed along a chain of participants who try to recreate what they observed. We apply this method to the study of visual perception in the context of spatial memory biases for the remembered position of dots inside different geometric shapes. We present the results of non-parametric kernel density estimation of the end result of serial reproduction to model visual biases. We confirm previous findings, and show that memory biases revealed with our method are often more intricate and complex than what had previously been reported, suggesting that serial reproduction can be effective for studying perceptual priors."
 abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
