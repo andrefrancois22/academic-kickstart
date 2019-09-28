@@ -2,7 +2,7 @@
 title = "Orthogonal multi view three dimensional object representations in memory revealed by serial reproduction"
 
 # Date first published.
-date = "January 2019"
+date = "January 2011"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Thomas A. Langlois", "Nori Jacoby", "Jordan Suchow", "Thomas L. Griffiths"]
