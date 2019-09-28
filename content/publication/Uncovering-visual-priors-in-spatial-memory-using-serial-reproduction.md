@@ -40,7 +40,7 @@ our method are often more intricate and complex than what
 had previously been reported, suggesting that serial reproduc-
 tion can be effective for studying perceptual priors."
 
-abstract_short = ""
+abstract_short = "A short version of the abstract."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -79,6 +79,6 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = ""
+caption = "My caption 😄"
 
 +++
