@@ -27,7 +27,7 @@ abstract = "Visual memory can be understood as an inferential process that combi
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "thumbnail-Uncovering-visual-priors-in-spatial-memory-using-serial-reproduction.png"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
