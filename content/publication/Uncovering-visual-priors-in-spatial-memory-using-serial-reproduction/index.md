@@ -1,7 +1,9 @@
 ---
-title: "Uncovering visual priors in spatial memory using serial reproduction"
-authors = ["Thomas A. Langlois*", "Nori Jacoby*", "Jordan Suchow", "Thomas L. Griffiths"]
-date: "2013-07-01T00:00:00Z"
+title: "An example journal article"
+authors:
+- admin
+- Robert Ford
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -11,45 +13,37 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
-# Publication name and optional abbreviated version.
-publication = "In *Proceedings of the 39th Annual Conference of the Cognitive Science Society.*"
-publication_short = ""
+# Publication name and optional abbreviated publication name.
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-# Abstract and optional shortened version.
-abstract = "Visual memory can be understood as an inferential process that combines noisy information about the world with knowledge drawn from experience. Biases can arise during encoding of information from the outside world into internal representations, or during retrieval. In this work, we use the method of serial reproduction, in which information is passed along a chain of participants who try to recreate what they observed. We apply this method to the study of visual perception in the context of spatial memory biases for the remembered position of dots inside different geometric shapes. We present the results of non-parametric kernel density estimation of the end result of serial reproduction to model visual biases. We confirm previous findings, and show that memory biases revealed with our method are often more intricate and complex than what had previously been reported, suggesting that serial reproduction can be effective for studying perceptual priors."
-abstract_short = ""
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# Featured image thumbnail (optional)
-image_preview = ""
+tags:
+- Source Themes
+featured: false
 
-# Is this a selected publication? (true/false)
-selected = true
-
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
-
-# Links (optional).
-url_pdf = "files/Uncovering-visual-priors-in-spatial-memory-using-serial-reproduction.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
+# links:
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -58,8 +52,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,4 +71,3 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
