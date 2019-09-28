@@ -5,7 +5,7 @@ title = "Uncovering visual priors in spatial memory using serial reproduction"
 date = "2017"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Thomas A. Langlois", "Nori Jacoby", "Jordan Suchow", "Thomas L. Griffiths"]
+authors = ["Thomas A. Langlois*", "Nori Jacoby*", "Jordan Suchow", "Thomas L. Griffiths"]
 
 # Publication type.
 # Legend:
