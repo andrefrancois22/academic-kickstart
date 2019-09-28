@@ -1,11 +1,11 @@
 +++
-title = "Uncovering visual priors in spatial memory using serial reproduction"
+title = "Orthogonal multi view three dimensional object representations in memory revealed by serial reproduction"
 
 # Date first published.
-date = "January 2017"
+date = "January 2019"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Thomas A. Langlois*", "Nori Jacoby*", "Jordan Suchow", "Thomas L. Griffiths"]
+authors = ["Thomas A. Langlois", "Nori Jacoby", "Jordan Suchow", "Thomas L. Griffiths"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication = "In *Proceedings of the 39th Annual Conference of the Cognitive Sc
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Visual memory can be understood as an inferential process that combines noisy information about the world with knowledge drawn from experience. Biases can arise during encoding of information from the outside world into internal representations, or during retrieval. In this work, we use the method of serial reproduction, in which information is passed along a chain of participants who try to recreate what they observed. We apply this method to the study of visual perception in the context of spatial memory biases for the remembered position of dots inside different geometric shapes. We present the results of non-parametric kernel density estimation of the end result of serial reproduction to model visual biases. We confirm previous findings, and show that memory biases revealed with our method are often more intricate and complex than what had previously been reported, suggesting that serial reproduction can be effective for studying perceptual priors."
+abstract = "The internal representations of three dimensional objects within visual memory are only partially understood. Previous research suggests that 3D object perception is viewpoint dependent, and that the visual system stores viewpoint perspectives in a biased manner. The aim of this project was to obtain detailed estimates of the distributions of 3D object views in shared human memory. We devised a novel experimental paradigm based on transmission chains to investigate memory biases for the 3D orientation of objects. We found that memory tends to be biased towards orthogonal diagrammatic perspectives aligned with the ends of the standard basis for a set of common 3D objects, and that these biases are strongest for side views as well as top or bottom views for a small set of bilaterally symmetric objects. Finally, we found that views sampled from the modes were easier to categorize in a recognition task."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "files/Uncovering-visual-priors-in-spatial-memory-using-serial-reproduction.pdf"
+url_pdf = "files/Orthogonal-multi-view-three-dimensional-object-representations-in-memory-revealed-by-serial-reproduction.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
