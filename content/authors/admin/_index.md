@@ -49,9 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/thomas-langlois-240bb687/
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I completed my Ph.D. in Thomas Griffiths' Computational Cognitive Science Lab at UC Berkeley in August of 2018. Prior to completing my Ph.D., I completed an M.S. in Computer Science (EECS), also at UC Berkeley. I am currently at Princeton University working as a postdoctoral researcher in the Computational Cognitive Science Lab. My research interests center around uncovering human perceptual biases using crowdsourcing and large-scale curated networks of participants arranged in transmission chains. I use techniques from visual psychophysics, Bayesian computational modeling, as well as interpretable A.I. and computer vision to understand these biases. My current work focuses on characterizing human visual memory encoding for images and objects. 
+I completed my Ph.D. in Thomas Griffiths’ Computational Cognitive Science Lab at UC Berkeley in August of 2018. Prior to completing my Ph.D., I completed an M.S. in Computer Science (EECS), also at UC Berkeley. I am currently at Princeton University working as a postdoctoral researcher in the Computational Cognitive Science Lab. My research interests center around uncovering human perceptual biases. I use techniques from visual psychophysics, Bayesian computational modeling, as well as interpretable A.I. and computer vision to understand these biases. My current work centers on characterizing human visual memory encoding for images and objects. I am broadly interested in combining techniques from cognitive science, computer science, statistical modeling and psychophysics to understand human perceptual systems, with a focus on human vision.
