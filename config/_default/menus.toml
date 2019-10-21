@@ -6,7 +6,7 @@
 [[main]]
   name = "Home"
   #url = "#about"
-  url = "Home"
+  url = "/"
   weight = 1
 
 #[[main]]
@@ -17,13 +17,13 @@
 [[main]]
   name = "Projects"
   #url = "#projects"
-  url = "Projects"
+  url = "/projects/"
   weight = 2
 
 [[main]]
   name = "Publications"
   #url = "#featured"
-  url = "Publications"
+  url = "/publications/"
   weight = 3
 
 #[[main]]
