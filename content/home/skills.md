@@ -7,6 +7,7 @@
 
 #title = "Skills"
 #subtitle = ""
+active = false
 
 ## Showcase personal skills or business features.
 ## 
