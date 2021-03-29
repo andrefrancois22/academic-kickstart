@@ -9,7 +9,7 @@ publishDate = "2021-01-01T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 #authors = ["Stephen E. Palmer", "Thomas A. Langlois"]
-authors = ["&amp; __Langlois, T.A.__, Jacoby, N., Suchow, J., Griffiths, T."]
+authors = ["&amp; __Langlois&ast;, T.A.__, Jacoby&ast;, N., Suchow, J., Griffiths, T."]
 
 # Publication type.
 # Legend:
