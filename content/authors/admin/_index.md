@@ -52,9 +52,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thomas-langlois-240bb687/
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ThomasALanglois
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
