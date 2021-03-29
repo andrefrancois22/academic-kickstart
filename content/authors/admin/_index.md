@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Thomas Langlois
+name: Thomas Alexandre Langlois
 
 # Username (this should match the folder name)
 authors:
