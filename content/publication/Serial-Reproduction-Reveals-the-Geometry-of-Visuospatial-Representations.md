@@ -2,10 +2,10 @@
 title = "Serial Reproduction Reveals the Geometry of Visuospatial Representations"
 
 # Date first published.
-date = "2021-03-30T00:00:00Z"
+date = "2021-03-28T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate = "2021-03-30T00:00:00Z"
+publishDate = "2021-03-28T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["&amp; __Langlois&ast;, T.A.__, Jacoby&ast;, N., Suchow, J., Griffiths, T."]
