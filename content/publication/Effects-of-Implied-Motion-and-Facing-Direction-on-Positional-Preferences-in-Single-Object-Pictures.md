@@ -8,7 +8,8 @@ date = "2017-01-01T00:00:00Z"
 publishDate = "2017-01-01T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Stephen E. Palmer", "Thomas A. Langlois"]
+#authors = ["Stephen E. Palmer", "Thomas A. Langlois"]
+authors = ["Palmer, S.E. &amp; __Langlois, T.A.__"]
 
 # Publication type.
 # Legend:
