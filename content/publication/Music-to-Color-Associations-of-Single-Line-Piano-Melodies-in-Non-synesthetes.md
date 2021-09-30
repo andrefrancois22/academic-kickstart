@@ -22,7 +22,7 @@ authors = ["Palmer, S.E., __Langlois, T.A.__, Schloss, K."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Multisensory Research.*"
+publication = "In *Multisensory Research, 29(1-3),* 157-193"
 publication_short = ""
 
 # Abstract and optional shortened version.

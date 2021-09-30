@@ -23,7 +23,7 @@ authors = ["Palmer, S.E. &amp; __Langlois, T.A.__"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Perception.*"
+publication = "In *Perception,* 46(7), 815-829"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -22,7 +22,7 @@ authors = ["__Langlois&ast;, T.A.__, Jacoby&ast;, N., Suchow, J., Griffiths, T."
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Proceedings of the 39th Annual Conference of the Cognitive Science Society.*"
+publication = "In *Proceedings of the 39th Annual Conference of the Cognitive Science Society*"
 publication_short = ""
 
 # Abstract and optional shortened version.
