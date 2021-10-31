@@ -42,7 +42,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/2107.07013.pdf"
+url_pdf = "files/Passive-Attention-in-Artificial-Neural-Networks-Predicts-Human-Visual-Selectivity.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
