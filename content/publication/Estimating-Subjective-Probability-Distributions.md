@@ -42,7 +42,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/pdf/2209.14821.pdf"
+url_pdf = "files/chapter10.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
