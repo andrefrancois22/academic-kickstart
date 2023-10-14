@@ -30,7 +30,7 @@ interests:
 - Visual psychophysics and serial reproduction
 - Computational models of cognition and perception
 - Interpretable A.I. and computer vision 
-- Neural computation
+- Neural correlates of visual decision making
 - The Information Bottleneck (IB) principle
 
 
