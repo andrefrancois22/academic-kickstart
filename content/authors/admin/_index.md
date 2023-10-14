@@ -10,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
+- name: UT Austin
+- url: ""  
 - name: Princeton University
   url: ""
 - name: University of California, Berkeley
@@ -23,10 +25,13 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Vision science
-- Perceptual priors
+- Bayesian models of vision
+- Working memory priors
+- Visual psychophysics and serial reproduction
 - Computational models of cognition and perception
 - Interpretable A.I. and computer vision 
+- Neural computation
+- The Information Bottleneck (IB) principle
 
 
 education:
