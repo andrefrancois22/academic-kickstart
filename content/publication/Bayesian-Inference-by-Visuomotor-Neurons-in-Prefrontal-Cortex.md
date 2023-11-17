@@ -1,6 +1,5 @@
 +++
-title = "Bayesian Inference by Visuomotor Neurons in Prefrontal
-Cortex"
+title = "Bayesian Inference by Visuomotor Neurons in Prefrontal Cortex"
 
 # Date first published.
 date = "2023-11-28T00:00:00Z"
