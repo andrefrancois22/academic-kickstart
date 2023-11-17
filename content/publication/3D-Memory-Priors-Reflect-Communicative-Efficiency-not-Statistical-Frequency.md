@@ -2,10 +2,10 @@
 title = "3D Memory Priors Reflect Communicative Efficiency not Statistical Frequency"
 
 # Date first published.
-date = "2023-03-28T00:00:00Z"
+date = "2023-10-28T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate = "2023-03-28T00:00:00Z"
+publishDate = "2023-10-28T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["__Langlois&ast;, T.A.__, Jacoby&ast;, Griffiths, T."]
