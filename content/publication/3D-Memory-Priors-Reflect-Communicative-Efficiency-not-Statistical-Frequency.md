@@ -8,7 +8,7 @@ date = "2023-10-28T00:00:00Z"
 publishDate = "2023-10-28T00:00:00Z"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["__Langlois, T.A.__, Jacoby, Griffiths, T."]
+authors = ["__Langlois, T.A.__, Griffiths, T., Jacoby, N."]
 
 # Publication type.
 # Legend:
