@@ -42,7 +42,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.biorxiv.org/content/10.1101/2024.09.23.614567v2.full.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
