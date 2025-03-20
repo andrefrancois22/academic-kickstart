@@ -22,7 +22,7 @@ authors = ["__Langlois&ast;, T.A.__, Charlton, J&ast;, Goris, R."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*(In review)*"
+publication = "*Proceedings of the National Academy of Sciences (PNAS) (Accepted)*"
 publication_short = ""
 
 # Abstract and optional shortened version.
