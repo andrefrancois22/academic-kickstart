@@ -22,7 +22,7 @@ authors = ["__Langlois&ast;, T.A.__, Charlton, J&ast;, Goris, R."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Proceedings of the National Academy of Sciences (PNAS) (Accepted)*"
+publication = "In *Proceedings of the National Academy of Sciences (PNAS) 122(13)*"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -42,8 +42,8 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.biorxiv.org/content/10.1101/2024.09.23.614567v2.full.pdf"
-url_preprint = ""
+url_pdf = "https://www.pnas.org/doi/10.1073/pnas.2420815122"
+url_preprint = "https://www.biorxiv.org/content/10.1101/2024.09.23.614567v2.full.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
