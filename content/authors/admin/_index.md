@@ -44,7 +44,7 @@ education:
   - course: MS in Computer Science (EECS)
     institution: University of California, Berkeley
     year: 2018
-  - course: BA in Psychology (Cognitive Science), Art History & Studio Art
+  - course: BA in Psychology (Cognitive Science), BA in Art History & Studio Art
     institution: Georgetown University
     year: 2008
 
