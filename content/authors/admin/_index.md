@@ -14,7 +14,7 @@ role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Massachusetts Institute of Technology (MIT)
+- name: Massachusetts Institute of Technology (MIT) & NYU
 - url: ""  
 - name: UT Austin
 - url: ""  
