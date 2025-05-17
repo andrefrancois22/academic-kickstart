@@ -1,5 +1,5 @@
 +++
-title = "BEfficient Compression in Locomotion Verbs Across Languages"
+title = "Efficient Compression in Locomotion Verbs Across Languages"
 
 # Date first published.
 date = "2025-01-02T00:00:00Z"
