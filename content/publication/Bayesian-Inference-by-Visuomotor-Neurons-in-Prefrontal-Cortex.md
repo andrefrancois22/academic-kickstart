@@ -42,9 +42,10 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.pnas.org/doi/10.1073/pnas.2420815122"
+url_pdf = "files/langlois-et-al-bayesian-inference-by-visuomotor-neurons-in-the-prefrontal-cortex.pdf" #"https://www.pnas.org/doi/10.1073/pnas.2420815122"
+# url_SI  = "files/pnas.2420815122.sapp.pdf"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2024.09.23.614567v2.full.pdf"
-url_code = ""
+url_code = "https://github.com/andrefrancois22/Bayesian_Inference_PAG"
 url_dataset = ""
 url_project = ""
 url_slides = ""
