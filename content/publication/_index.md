@@ -8,8 +8,6 @@ title: Publications
 #   4 = Citation
 view: 4
 
-list_format: 2
-
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
