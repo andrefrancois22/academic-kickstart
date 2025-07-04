@@ -56,9 +56,6 @@ url_source = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 # url_custom = [{name = "SI", url = "files/pnas-2420815122-sapp.pdf"}]
-[[link]]
-name = "SI"
-url = "files/pnas-2420815122-sapp.pdf"
 
 # Does the content use math formatting?
 math = true
