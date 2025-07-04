@@ -45,7 +45,7 @@ projects = []
 url_pdf = "files/langlois-et-al-bayesian-inference-by-visuomotor-neurons-in-the-prefrontal-cortex.pdf" #"https://www.pnas.org/doi/10.1073/pnas.2420815122"
 url_preprint = "https://www.biorxiv.org/content/10.1101/2024.09.23.614567v2.full.pdf"
 url_code = "https://github.com/andrefrancois22/Bayesian_Inference_PAG"
-url_dataset = [{name = "SI", url = "files/pnas.2420815122.sapp.pdf"}]
+url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -55,6 +55,7 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "SI", url = "files/pnas.2420815122.sapp.pdf"}]
 
 # Does the content use math formatting?
 math = true
