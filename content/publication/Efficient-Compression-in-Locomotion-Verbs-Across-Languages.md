@@ -49,7 +49,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "file/ThomasLangloisCogsci2025_portrait.pdf"
+url_poster = "files/ThomasLangloisCogsci2025_portrait.pdf"
 url_source = ""
 
 # Custom links (optional).
