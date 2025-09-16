@@ -27,13 +27,12 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Bayesian models of vision
-- Working memory priors
-- Visual psychophysics and serial reproduction
-- Computational models of cognition and perception
-- Interpretable A.I. and computer vision 
-- Neural correlates of visual decision making
-- The Information Bottleneck (IB) principle
+- Bayesian models of cognition
+- Information theory
+- Perception and language
+- Artificial Intelligence 
+- Visual neuroscience
+
 
 
 education:
@@ -55,7 +54,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:thomas.langlois@berkeley.edu"
+  link: "tal22@mit.edu"
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thomas-langlois-240bb687/
@@ -81,9 +80,11 @@ user_groups:
 - Visitors
 ---
 
-Vision is an active process. Far from being passive recipients of external information, our visual systems are constantly generating meaning by combining sensory information with internal beliefs about the structure of the world around us. From the perspective of Bayesian statistics, these beliefs correspond to perceptual priors. My research centers around uncovering the hidden structure of subjective probability distributions and understanding the role that they play in perception and cognition. In particular, I investigate visual decision-making at the level of behavior, computation, and neural (biological) implementation. I am particularly interested in understanding the information-theoretic tradeoffs that shape our perceptual inferences. 
+How do human minds resolve the difficult computational trade-offs involved in generating flexible and accurate inferences about the world while remaining so efficient? Understanding the mathematical principles that govern how minds develop efficient psychological representations that support perception, decision-making, memory, and language is a fundamental challenge to our understanding of intelligence writ large, and identifying how brains achieve this remains an open problem. Meeting this challenge requires the development of novel theoretical models that capture key aspects of human behavior, comparisons between leading AI systems and human minds, and a close examination of the priors and subjective representations that human minds develop to solve complex perceptual and cognitive tasks. 
+
+Throughout my work, I aim to identify the efficient coding principles that govern how biological minds form accurate yet efficient perceptual and semantic representations using information theory. I am also interested in developing new tools to examine how minds deviate from leading AI systems with respect to resolving the same computational trade-offs. Finally, I use innovate behavioral experiments based on statistical sampling techniques to uncover the subjective priors that enable human minds to solve complex cognitive and perceptual tasks. Integrating these three approaches has the potential to elucidate the computational principles at the heart of human intelligence, and guide the development of better AI systems.
 
 For a representative example of my work probing visual memory priors, see my work in [*PNAS*](https://www.pnas.org/content/118/13/e2012938118). For another example of my work exploring the neural (biological) basis of Bayesian inference during visual decision making, see my more recent work in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.2420815122). I also investigate how biological vision differs from computer vision systems. For a representative example of this work, see my oral presentation and paper in [*NeurIPS 2021*](https://arxiv.org/pdf/2107.07013.pdf). I am currently exploring the information-theoretic tradeoffs that govern how humans communicate about visual percepts using the Information Bottleneck (IB) Principle.
 
-I completed my Ph.D. in Thomas Griffiths’ [Computational Cognitive Science Lab](https://cocosci.princeton.edu/) at UC Berkeley in August of 2018. Prior to completing my Ph.D., I completed an M.S. in Computer Science (EECS), also at UC Berkeley. I then joined Princeton University as a postdoctoral researcher, where I developed experimental methods to estimate subjective probability distributions in visual memory. Next, I completed a postdoctoral fellowship at UT Austin in the [Center for Perceptual Systems (CPS)](https://liberalarts.utexas.edu/cps/), where I worked in [Robbe Goris' group](https://gorislab.github.io/). I am currently a postdoctoral associate in the [Brain and Cognitive Sciences Department (BCS) at MIT](https://bcs.mit.edu/), where I am working with [Roger Levy](http://cpl.mit.edu/) and [Noga Zaslavsky](https://www.nogsky.com/) on applications of the Information Bottleneck (IB) Principle. I am also a visiting scholar affiliated with the [Department of Psychology at NYU](https://as.nyu.edu/departments/psychology/about.html).    
+I completed my Ph.D. in Thomas Griffiths’ [Computational Cognitive Science Lab](https://cocosci.princeton.edu/) at UC Berkeley in August of 2018. Prior to completing my Ph.D., I completed an M.S. in Computer Science (EECS), also at UC Berkeley. I then joined Princeton University as a postdoctoral researcher, where I developed experimental methods to estimate subjective probability distributions in visual memory. Next, I completed a postdoctoral fellowship at UT Austin in the [Center for Perceptual Systems (CPS)](https://liberalarts.utexas.edu/cps/), where I worked in Dr. Robbe Goris' group. I am currently a postdoctoral associate in the [Brain and Cognitive Sciences Department (BCS) at MIT](https://bcs.mit.edu/), where I am working with Dr. Roger Levy and Dr. Noga Zaslavsky on applications of the Information Bottleneck (IB) Principle. I am also a visiting scholar affiliated with the [Department of Psychology at NYU](https://as.nyu.edu/departments/psychology/about.html).    
 
